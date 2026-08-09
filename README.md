@@ -40,4 +40,4 @@ Each PDF report follows a consistent structure:
 
 ---
 
-📫 Connect with me on [LinkedIn](https://linkedin.com/in/abiral-timalsina) | Check out my [CyberDefenders profile](https://cyberdefenders.org/p/abiraltimalsina8)
+📫 Connect with me on [LinkedIn](https://linkedin.com/in/abiral-timalsina) | Check out my [CyberDefenders profile](https://cyberdefenders.org/p/Abiral_/)
